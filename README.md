@@ -1,0 +1,1 @@
+# Breeze colorscheme for qutebrowser
